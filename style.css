@@ -1,0 +1,28 @@
+body {
+  background: #e3e8ec;
+}
+.yt-wrap {
+  width: 50%;
+  position: relative;
+  float: left;
+}
+.yt {
+  padding-bottom: 56.25%;
+  width: 100%;
+}
+
+.yt-player {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.controls {
+  text-align: center;
+  margin-top: 10px;
+  width: 100%;
+  position: relative;
+  float: left;
+}
+
+  
